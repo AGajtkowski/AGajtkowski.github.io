@@ -108,7 +108,7 @@ author:
   email            : "adam.gajtkowski@icloud.com"
   links:
     -label: "Website"
-      url:   "https://medium.com/@adam.gajtkowski"
+    url:   "https://medium.com/@adam.gajtkowski"
 
   # links:
   #   - label: "Email"
