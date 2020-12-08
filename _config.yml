@@ -101,14 +101,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Adam Gajtkowki"
-  avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
-  location         : "London"
-  email            : "adam.gajtkowski@icloud.com"
-links:
-  -label: "Website"
-  url:   "https://medium.com/@adam.gajtkowski"
+  name: "Adam Gajtkowki"
+  avatar: "/images/bio-photo.jpg"
+  bio: "full-stack data scientist" # Note: Markdown is allowed
+  location: "London"
+  links:
+    - label: "Blog"
+      icon: "fas fa-fw fa-link"
+      url: "https://medium.com/@adam.gajtkowski"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/adam_gajt"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/agajtkowski"
+
+# author:
+#   name             : "Adam Gajtkowki"
+#   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#   bio              : "Data Science Portfolio"
+#   location         : "London"
+#   email            : "adam.gajtkowski@icloud.com"
+# links:
+#   -label: "Website"
+#   url:   "https://medium.com/@adam.gajtkowski"
 
   # links:
   #   - label: "Email"
