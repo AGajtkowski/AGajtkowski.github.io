@@ -106,7 +106,7 @@ author:
   bio              : "Data Science Portfolio"
   location         : "London"
   email            : "adam.gajtkowski@icloud.com"
-  GitHub           : "AGajtkowski"
+  GitHub           : "https://github.com/AGajtkowski"
   links:
     - label: "Email"
       icon: "adam.gajtkowski@icloud.com"
