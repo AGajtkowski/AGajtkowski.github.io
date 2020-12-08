@@ -115,59 +115,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/agajtkowski"
-
-# author:
-#   name             : "Adam Gajtkowki"
-#   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-#   bio              : "Data Science Portfolio"
-#   location         : "London"
-#   email            : "adam.gajtkowski@icloud.com"
-# links:
-#   -label: "Website"
-#   url:   "https://medium.com/@adam.gajtkowski"
-
-  # links:
-  #   - label: "Email"
-  #     icon: "adam.gajtkowski@icloud.com"
-  #     # url: mailto:adam.gajtkowski@icloud.com
-  #   - label: "Website"
-  #     icon: "fas fa-fw fa-link"
-  #     # url: "https://your-website.com"
-  #   - label: "Twitter"
-  #     icon: "fab fa-fw fa-twitter-square"
-  #     # url: "https://twitter.com/"
-  #   - label: "Facebook"
-  #     icon: "fab fa-fw fa-facebook-square"
-  #     # url: "https://facebook.com/"
-  #   - label: "GitHub"
-  #     icon: "adam9601"
-  #     # url: "https://github.com/adam9601"
-  #   - label: "Instagram"
-  #     icon: "fab fa-fw fa-instagram"
-  #     # url: "https://instagram.com/"
-
-# Site Footer
-# footer:
-#   links:
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       # url:
-#     - label: "Facebook"
-#       icon: "fab fa-fw fa-facebook-square"
-#       # url:
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       # url:
-#     - label: "GitLab"
-#       icon: "fab fa-fw fa-gitlab"
-#       # url:
-#     - label: "Bitbucket"
-#       icon: "fab fa-fw fa-bitbucket"
-#       # url:
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       # url:
-
+    - label: "GitHub"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/adam-gajtkowski"
 
 # Reading Files
 include:
