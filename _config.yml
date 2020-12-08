@@ -104,8 +104,9 @@ author:
   name             : "Adam Gajtkowki"
   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
-  location         : "Financial Times"
+  location         : "London"
   email            : "adam.gajtkowski@icloud.com"
+  GitHub           : "AGajtkowski"
   links:
     - label: "Email"
       icon: "adam.gajtkowski@icloud.com"
