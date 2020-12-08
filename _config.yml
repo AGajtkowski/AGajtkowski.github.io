@@ -103,10 +103,10 @@ analytics:
 author:
   name             : "Adam Gajtkowki"
   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+    website          : "https://medium.com/@adam.gajtkowski"
   bio              : "Data Science Portfolio"
   location         : "London"
-  website          : "https://medium.com/@adam.gajtkowski"
-#  email            : "adam.gajtkowski@icloud.com"
+  email            : "adam.gajtkowski@icloud.com"
   links:
     - label: "Email"
       icon: "adam.gajtkowski@icloud.com"
