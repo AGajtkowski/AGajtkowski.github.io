@@ -105,8 +105,8 @@ author:
   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "London"
-  email            : "adam.gajtkowski@icloud.com"
   website          : "https://medium.com/@adam.gajtkowski"
+  email            : "adam.gajtkowski@icloud.com"
   links:
     - label: "Email"
       icon: "adam.gajtkowski@icloud.com"
