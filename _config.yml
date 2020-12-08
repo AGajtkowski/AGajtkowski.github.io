@@ -106,18 +106,18 @@ author:
   bio: "full-stack data scientist" # Note: Markdown is allowed
   location: "London"
   links:
-    - label: "Blog"
+    - label: "Medium Blog"
       icon: "fas fa-fw fa-link"
       url: "https://medium.com/@adam.gajtkowski"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/adam_gajt"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/adam-gajtkowski"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/agajtkowski"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/adam-gajtkowski"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/adam_gajt"
 
 # Reading Files
 include:
