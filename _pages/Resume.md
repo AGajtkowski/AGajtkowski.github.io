@@ -1,5 +1,6 @@
 ---
 layout: single
-title: <p>Resume [PDF]<a href="/Resume.pdf"></a></p>
+title: "Resume"
 permalink: /Resume/
 ---
+<p>Resume [PDF]<a href="/Resume.pdf"></a></p>
