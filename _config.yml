@@ -235,7 +235,7 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
+permalink: /Resume/
 
 # HTML Compression
 # - http://jch.penibelst.de/
